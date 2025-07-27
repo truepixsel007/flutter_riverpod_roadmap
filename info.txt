@@ -1,0 +1,28 @@
+#1 Flutter Riverpod Roadmap || Flutter Riverpod State Management Tutorials in Hindi/Urdu
+
+*Riverpod
+
+   * provider problems solve in riverpod 
+   * provider access with context
+    
+  1. state manage 
+  2. cache data
+  3. dependeny awesome way injection 
+  4. Compile Time code check
+  5. riverpod in context provide not important
+  6. Riverpod in provider it is dart class , it is not widget (flutter dart code integration)
+  7. Riverpod easy other than provider 
+
+  ** Roadmap in Riverpod 
+     1. Type of Providers (statemangement techiques)
+        Simpe Provider :- constant data read only. (data state not change)
+        State Provider :- manage small states (toggle button, counter app)
+        Future Provider :- future work, snapshot not use important ( check internet, api integration)
+        Stream Provider :- continuosely data fetch ( check network continousely)
+        State Notify Provider :- Complex statemanagement handle
+        StateProvider : For simple mutable states. Good for UI components.
+
+    2. Provider scope how it work
+
+
+
